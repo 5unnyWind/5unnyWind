@@ -1,13 +1,43 @@
-### Hi there 👋
 
 
+<div align="left">
+ceoi mit duk syu dang，
+<br/>
+📕 吹 灭 读 书 灯 ，
+<br/>
+Blow out the reading lamp
+</div>
 
-![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
+<div align="right">
+lok dak jat san jyut 
+<br/>
+落 得 一 身 月 🌙
+<br/>
+and fall all over the moon.
+</div>
 
+<br/>
+<br/>
+<br/>
+
+<div align="center">
+ 正在播放 「 枫 —— 周杰伦 」
+<br/>
+🎵●━━━━━━─────── 2:11
+<br/>
+⇆ ◁ ❚❚ ▷ ↻
+</div>
 
 <div id="header" align="center">
   <img src="https://images-1305580547.cos.ap-guangzhou.myqcloud.com/giphy.gif" width="100"/>
 </div>
+
+![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
 
 
 <!--
