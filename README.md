@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![Sticker Coding Sticker by Google Developers](https://images-1305580547.cos.ap-guangzhou.myqcloud.com/giphy.gif)
+
+
 <!--
 **5unnyWind/5unnyWind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
